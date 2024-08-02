@@ -27,8 +27,8 @@ function AboutSection({ contactRef }: Props): ReactElement {
           <p>
             Deeply invested in the life-long learning mentality, I&apos;m a full-stack developer who carries a keen eye
             for design in an user-first approach. My focus is in creating responsive layouts on the JavaScript stack of
-            React and NodeJS, and from my background as an electrical engineer I&apos;m well acquainted to bringing out
-            solutions to complex problems.
+            React and NodeJS, and from my background as a Network Technical Advisor I&apos;m well acquainted to bringing
+            out solutions to complex problems.
           </p>
 
           <div className={styles.scrollerContainer}>
