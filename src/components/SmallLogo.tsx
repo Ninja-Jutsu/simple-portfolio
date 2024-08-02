@@ -8,7 +8,7 @@ interface Props {
 function SmallLogo({ onClick }: Props): ReactElement {
   return (
     <div onClick={onClick} className={styles.logoContainer}>
-      <h1>pk</h1>
+      <h1>IB</h1>
 
       <div className={styles.solidBackground} />
       <div className={styles.gradientBackground} />
